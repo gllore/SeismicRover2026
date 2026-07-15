@@ -5,15 +5,17 @@ At Site 1 the data were collected both using a traditional geophone array (2022)
 wheel-based accelerometers on a prototype rover (2023)
 At Site 2, only wheel-based accelerometers on a prototype rover were deployed (2023).
 
-Date      File name        
+Date       File name        
 
-120822     Site 1_geophones.sgy
+120822     Site 1_geophones.segy
 
-071723     Site1_rover.sgy
+071723     Site1_seismic_rover.segy
 
-0718232    Site2_rover.sgy
+0718232    Site2_seismic_rover.segy
 
-Data in this directory belongs to a manuscript which is currently under review.
+The files use a standard SEGY format. The header value for offset are in whole centimeters.
+
+Data in this directory belong to a manuscript which is currently under review.
 
 July 14, 2026
 J. Lorenzo LSU
